@@ -13,6 +13,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		log.debug("rebase test");
 		log.debug("tag test test");
+		log.debug("tag test test");
 	}
 
 }
