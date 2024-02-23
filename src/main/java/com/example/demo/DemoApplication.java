@@ -12,7 +12,7 @@ public class DemoApplication {
 		log.debug("started main DemoApplication ");
 		SpringApplication.run(DemoApplication.class, args);
 		log.debug("rebase test");
-		log.debug("tag test");
+		log.debug("tag test test");
 	}
 
 }
